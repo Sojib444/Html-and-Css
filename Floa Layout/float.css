@@ -1,0 +1,29 @@
+
+
+/* *
+{
+    padding: 0;
+    margin: 0;
+} */
+.left{
+
+    width: 800px;
+    height: 600px;
+    background-color: aqua;
+    float: left;
+}
+
+
+.right{
+
+    width: 400px;
+    height: 600px;
+    background-color: blue;
+    float: right;
+}
+
+.footer
+{
+    font-size: 30px;
+    clear: both;
+}

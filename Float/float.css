@@ -1,0 +1,22 @@
+/* p{
+    display: inline-block;
+} */
+
+p{
+    float: left;
+    
+}
+h1
+{
+    float: right;
+}
+
+.div{
+    background-color: rgb(181, 255, 255);
+    height: 50px;
+    width: 100%;
+}
+
+.clear{
+    clear: both;
+}
